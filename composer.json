@@ -24,6 +24,7 @@
     "library/"
   ],
   "require": {
+    "pear/net_url2": "2.2.0",
     "pear/http_request2": "2.2.1",
     "pear/log": "1.12.9"
   }
